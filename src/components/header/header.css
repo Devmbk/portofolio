@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 40px;
+    background: linear-gradient(2deg, #232526 60%, #2b6271 100%);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+.header-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: linear-gradient(135deg, #ffffff 60%, #00c6ff 100%);
+    letter-spacing: 2px;
+    margin: 0;
+}
+
+.header-nav ul {
+    list-style: none;
+    display: flex;
+    gap: 32px;
+    margin: 0;
+    padding: 0;
+}
+
+.header-nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.1rem;
+    transition: color 0.2s;
+}
+
+.header-nav a:hover {
+    color: #00bcd4;
+}
