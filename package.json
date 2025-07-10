@@ -2,7 +2,8 @@
   "name": "portofolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://devmbk.github.io",
+  "homepage": "https://devmbk.github.io/portofolio",
+  "description": "My personal portfolio website built with React.",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
